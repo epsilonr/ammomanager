@@ -1,0 +1,8 @@
+"Weapons"
+{
+	//"weapon_bizon"
+	//{
+	//	"clipsize" "32"
+	//	"reservesize" "300"
+	//}
+}
