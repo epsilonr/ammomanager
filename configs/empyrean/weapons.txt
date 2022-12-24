@@ -1,5 +1,6 @@
 "Weapons"
 {
+	// reserve size 0 means infinite reserve ammo.
 	//"weapon_bizon"
 	//{
 	//	"clipsize" "32"
